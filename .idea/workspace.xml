@@ -4,38 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a445c1f5-a501-4cc9-9fc2-66d66e57dacc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chessgame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/bbishop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/bking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/bknight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/bpawn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/bqueen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/brook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/pawn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/wbishop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/wking.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/wknight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/wqueen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/piece/wrook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piece/Rook.java" afterDir="false" />
+    <list default="true" id="a445c1f5-a501-4cc9-9fc2-66d66e57dacc" name="Changes" comment="Chessgame">
+      <change beforePath="$PROJECT_DIR$/Chessgame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chessgames.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +50,26 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.Main" />
-      <module name="Chessgame" />
+      <module name="Chessgames" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Chessgames" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Chessgames" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,7 +96,20 @@
       <option name="presentableId" value="Default" />
       <updated>1720519366655</updated>
     </task>
+    <task id="LOCAL-00001" summary="Chessgame">
+      <option name="closed" value="true" />
+      <created>1720556018366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720556018366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chessgame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chessgame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
